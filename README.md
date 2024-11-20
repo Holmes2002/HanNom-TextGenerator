@@ -1,4 +1,5 @@
 # HanNom-TextGenerator
+Create synthesis HanNom images with their texts
 ### Normal HanNom Generator
 ```
 python Synthesis_Image.py
